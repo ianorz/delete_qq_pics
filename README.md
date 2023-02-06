@@ -1,0 +1,2 @@
+# delete_qq_pics
+根据文件创建时间删除Windows端QQ群聊缓存图片
