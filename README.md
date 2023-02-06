@@ -2,7 +2,7 @@
 
 根据文件创建时间删除Windows端QQ群聊缓存图片
 
-删除路径"C:\Users\{}\Documents\Tencent Files\{}\Image\Group2"下的缓存图片（qq的图片缓存机制真的逆天，这里堆了几十G的图片缓存）
+删除路径"C:\Users\\{}\Documents\Tencent Files\\{}\Image\Group2"下的缓存图片（qq的图片缓存机制真的逆天，这里堆了几十G的图片缓存）
 
 ## 使用方式
 
